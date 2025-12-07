@@ -10,7 +10,10 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Activities"      # <--- 新增这一行
+    url: /activities/        # <--- 新增这一行
+    
   - title: "Talks"
     url: /talks/    
 
