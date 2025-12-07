@@ -10,7 +10,7 @@ redirect_from:
 
 **Hello! I am Jinghui Zhao (赵景辉).**
 
-[cite_start]I am a Master of Management candidate in **Agricultural Economics & Management** at [Northeast Agricultural University (NEAU)](https://www.neau.edu.cn/), China. 
+I am a Master of Management candidate in **Agricultural Economics & Management** at [Northeast Agricultural University (NEAU)](https://www.neau.edu.cn/), China. 
 
 My research approach is defined by an **interdisciplinary perspective**. [cite_start]With a solid foundation in **Human Geography** (B.Sc.) and **Law** (LL.B.), I analyze rural development issues through the combined lens of spatial economics, policy mechanisms, and quantitative evaluation.
 
